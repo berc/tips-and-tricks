@@ -1,4 +1,4 @@
-# tips-and-tricks
+# Tips and Tricks
 
 ## git
 Rename current branch  
