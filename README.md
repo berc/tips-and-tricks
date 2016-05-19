@@ -1,5 +1,7 @@
 # Tips and Tricks
 
+Here can be found some tips and tricks I used to use.
+
 ## git
 Rename current branch  
 git branch -m new_branch
