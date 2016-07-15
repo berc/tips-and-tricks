@@ -3,13 +3,7 @@
 Here can be found some tips and tricks I used to use.
 
 ## git
-Rename current branch  
-git branch -m new_branch
-
-
-[How to undo “git commit --amend” done instead of “git commit”](http://stackoverflow.com/questions/1459150/how-to-undo-git-commit-amend-done-instead-of-git-commit)  
-git reset --soft 'HEAD@{1}'
-
+[Git tips](https://github.com/berc/git-tips)
 
 ## Midnight commander
 [Midnight commander in Mac OS X shortcuts](https://gist.github.com/sgergely/3793166)
